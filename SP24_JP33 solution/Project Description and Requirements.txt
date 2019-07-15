@@ -1,0 +1,27 @@
+###Project Description##
+
+Scope: 2019 NBA Hackathon: Business Analytics Track
+Team Members: Stephen Pelkofer and Jarrod Pelkofer
+Team Name: SP24_JP33
+
+
+Description: Given a training dataset of real NBA instagram posts, build a model to predict the the number of 'Engagements'
+on a holdout dataset. 
+
+
+###Package Requirements###
+pandas,
+numpy,
+datetime,
+pytz,
+random,
+textblob,
+matplotlib,
+seaborn,
+xgboost,
+mlxtend,
+skleanr,
+warnings,
+re,
+os
+
